@@ -1,0 +1,1941 @@
+fileFormatVersion: 2
+guid: 0b75a6f1415ee86439555168b416a3d1
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line001Mat
+    second: {fileID: 4882152420997020650, guid: 5d7657aa7d3dd5148b746dc1fee7cfea, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object001Mat
+    second: {fileID: 4882152420997020650, guid: 5d7657aa7d3dd5148b746dc1fee7cfea, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object002Mat
+    second: {fileID: 4882152420997020650, guid: 5d7657aa7d3dd5148b746dc1fee7cfea, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object010Mat
+    second: {fileID: 4882152420997020650, guid: 5d7657aa7d3dd5148b746dc1fee7cfea, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object011Mat
+    second: {fileID: 4882152420997020650, guid: 5d7657aa7d3dd5148b746dc1fee7cfea, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object012Mat
+    second: {fileID: 4882152420997020650, guid: 5d7657aa7d3dd5148b746dc1fee7cfea, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object013Mat
+    second: {fileID: 4882152420997020650, guid: 5d7657aa7d3dd5148b746dc1fee7cfea, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object014Mat
+    second: {fileID: 4882152420997020650, guid: 5d7657aa7d3dd5148b746dc1fee7cfea, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object020Mat
+    second: {fileID: 4882152420997020650, guid: 5d7657aa7d3dd5148b746dc1fee7cfea, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object021Mat
+    second: {fileID: 4882152420997020650, guid: 5d7657aa7d3dd5148b746dc1fee7cfea, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object022Mat
+    second: {fileID: 4882152420997020650, guid: 5d7657aa7d3dd5148b746dc1fee7cfea, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object023Mat
+    second: {fileID: 4882152420997020650, guid: 5d7657aa7d3dd5148b746dc1fee7cfea, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object024Mat
+    second: {fileID: 4882152420997020650, guid: 5d7657aa7d3dd5148b746dc1fee7cfea, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object025Mat
+    second: {fileID: 4882152420997020650, guid: 5d7657aa7d3dd5148b746dc1fee7cfea, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object027Mat
+    second: {fileID: 4882152420997020650, guid: 5d7657aa7d3dd5148b746dc1fee7cfea, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object029Mat
+    second: {fileID: 4882152420997020650, guid: 5d7657aa7d3dd5148b746dc1fee7cfea, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object030Mat
+    second: {fileID: 4882152420997020650, guid: 5d7657aa7d3dd5148b746dc1fee7cfea, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object031Mat
+    second: {fileID: 4882152420997020650, guid: 5d7657aa7d3dd5148b746dc1fee7cfea, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object032Mat
+    second: {fileID: 4882152420997020650, guid: 5d7657aa7d3dd5148b746dc1fee7cfea, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object033Mat
+    second: {fileID: 4882152420997020650, guid: 5d7657aa7d3dd5148b746dc1fee7cfea, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object034Mat
+    second: {fileID: 4882152420997020650, guid: 5d7657aa7d3dd5148b746dc1fee7cfea, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object035Mat
+    second: {fileID: 4882152420997020650, guid: 5d7657aa7d3dd5148b746dc1fee7cfea, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere001Mat
+    second: {fileID: 2100000, guid: 6960d24d72d3da342af8843da96104b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere004Mat
+    second: {fileID: 2100000, guid: 6960d24d72d3da342af8843da96104b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere005Mat
+    second: {fileID: 2100000, guid: 6960d24d72d3da342af8843da96104b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere007Mat
+    second: {fileID: 2100000, guid: 6960d24d72d3da342af8843da96104b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere008Mat
+    second: {fileID: 2100000, guid: 6960d24d72d3da342af8843da96104b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere009Mat
+    second: {fileID: 2100000, guid: 6960d24d72d3da342af8843da96104b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere010Mat
+    second: {fileID: 2100000, guid: 6960d24d72d3da342af8843da96104b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere011Mat
+    second: {fileID: 2100000, guid: 6960d24d72d3da342af8843da96104b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere012Mat
+    second: {fileID: 2100000, guid: 6960d24d72d3da342af8843da96104b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok001Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok002Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok003Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok004Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok005Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok006Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok007Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok009Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok010Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok011Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok012Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok013Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok014Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok016Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok017Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok018Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok019Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok020Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok021Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok022Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok023Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok024Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok025Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok026Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok027Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok028Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok029Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok030Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok031Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok032Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok033Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok034Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok035Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok036Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok037Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok112Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok113Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok114Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok115Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok116Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok117Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok118Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok119Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok120Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok121Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok122Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok123Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok124Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok125Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok126Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok127Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok128Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok129Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok130Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok131Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok132Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok133Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok134Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok135Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok136Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok137Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok138Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok139Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok140Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok141Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok142Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok143Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok144Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok145Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok146Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok147Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok148Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok149Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok150Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok151Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok152Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok153Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok154Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok155Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok156Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok157Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok158Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok159Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok160Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok161Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok162Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok163Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok164Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok165Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok166Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok167Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok168Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok169Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok170Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok171Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok172Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok173Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok174Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok175Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok176Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok177Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok178Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok179Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok180Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok181Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok182Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok183Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok184Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok185Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok222Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok223Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok224Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok225Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok226Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok227Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok228Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok229Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok230Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok231Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok232Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok233Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok234Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok235Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok236Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok237Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok238Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok239Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok240Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok241Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok242Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok243Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok244Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok245Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok247Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok248Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok249Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok250Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok251Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok252Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok253Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok254Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok255Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok256Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok257Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok258Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok259Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok260Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok261Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok262Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok263Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok264Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok265Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok266Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok267Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok268Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok269Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok270Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok271Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok272Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok273Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok274Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok275Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok276Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok277Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok278Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok279Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok280Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok281Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok282Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok283Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok284Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok285Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok286Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok287Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok288Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok289Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok290Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok291Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok292Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok293Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok294Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok295Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok296Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok297Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok298Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok299Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok300Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok301Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok302Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok303Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok304Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok305Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok306Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok307Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok308Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok309Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok310Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok311Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok312Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok313Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok314Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok315Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok316Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok317Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok318Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok319Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok320Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok321Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok322Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok323Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok324Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok325Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok326Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok327Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok328Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok329Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok330Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok331Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok332Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok333Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok334Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok335Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok336Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok337Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok338Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok339Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok340Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok341Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok342Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok343Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok344Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok345Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok346Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok347Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok348Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok349Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok350Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok351Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok352Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok353Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok354Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok355Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok356Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok357Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok358Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok359Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok360Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok361Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok362Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok363Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok364Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok365Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok366Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok367Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok368Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok369Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok370Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok371Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok372Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok373Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok374Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok375Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok376Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok377Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok378Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok379Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok380Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok381Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok382Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok383Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok384Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok385Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok386Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok387Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok388Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok389Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok390Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok391Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok392Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok393Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok394Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok395Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok396Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok397Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok398Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok399Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok400Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok401Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok402Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok403Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok404Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok405Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok406Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok407Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok408Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok409Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok410Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok411Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok412Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok413Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok414Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok415Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok416Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok417Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok418Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok419Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok420Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok421Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok422Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok423Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok424Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok425Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok426Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok427Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok428Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok429Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok430Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok431Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok432Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok433Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok434Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok435Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok436Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok437Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok438Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestok439Mat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lepestokMat
+    second: {fileID: -2571575951555073091, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stebel_001Mat
+    second: {fileID: -6973100893419982904, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stebel_004Mat
+    second: {fileID: -6973100893419982904, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stebel_005Mat
+    second: {fileID: -6973100893419982904, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stebel_007Mat
+    second: {fileID: -6973100893419982904, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stebel_008Mat
+    second: {fileID: -6973100893419982904, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stebel_009Mat
+    second: {fileID: -6973100893419982904, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stebel_010Mat
+    second: {fileID: -6973100893419982904, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stebel_011Mat
+    second: {fileID: -6973100893419982904, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stebel_012Mat
+    second: {fileID: -6973100893419982904, guid: 20c05ab4adc31fe4e93b441cbb372e6c, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
